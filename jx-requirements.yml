@@ -6,7 +6,7 @@ spec:
     schedule: ""
   cluster:
     chartRepository: http://bucketrepo.jx.svc.cluster.local/bucketrepo/charts/
-    clusterName: kind
+    clusterName: minikube
     devEnvApprovers:
     - todo
     environmentGitOwner: todo
